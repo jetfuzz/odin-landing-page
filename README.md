@@ -1,0 +1,1 @@
+Creating a landing page from scratch for The Odin Project.
