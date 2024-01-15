@@ -69,6 +69,7 @@ button {
     align-items: center;
     padding-left: 100px;
     padding-right: 100px;
+    padding-bottom: 100px;
 }
 
 .information {
@@ -102,4 +103,29 @@ h2 {
 .small-img {
     border: 4px solid #3882f6;
     border-radius: 24px;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    justify-content: center;
+    align-items: center;
+}
+
+.q {
+    display: flex;
+    margin-left: auto;
+    font-weight: bold;
 }
