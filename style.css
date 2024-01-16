@@ -179,3 +179,13 @@ h3 {
 .action {
     padding-left: 25px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
